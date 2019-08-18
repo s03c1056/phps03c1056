@@ -1,0 +1,17 @@
+li {
+  list-style: none;
+}
+/* body {
+  background-color: darkblue;
+}
+.list {
+  background-color: khaki;
+  margin: 30px;
+  padding: 10px, 20px;
+} */
+.name {
+  font-size: 20px;
+}
+.p {
+  margin: 5px;
+}
